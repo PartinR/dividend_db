@@ -9,5 +9,5 @@ To design and implement:
 - A **database**  that stores and analyzes data.
 
 ### Technologies
-- Language: Python3, SQL
+- Language: Python, SQL
 - Tools: Supabase
